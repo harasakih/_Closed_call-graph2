@@ -1,8 +1,12 @@
-#!/usr/bin/python
+#!/usr/local/bin/python
 # -*- coding: utf-8 -*-
+## !/usr/bin/python
 """ 家系図をコンソールとpdfに表示
 """
 import re
+import sys
+sys.path.append('/usr/local/lib/python2.7/site-packages/graphviz/')
+
 from graphviz import Digraph
 from Kakeizu import Kakeizu
 

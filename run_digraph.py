@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python
 # -*- coding: utf-8 -*-
 """ GvKakeizuを利用して、edgeのネットワーク図を作成する
 """

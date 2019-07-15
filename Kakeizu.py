@@ -1,5 +1,6 @@
-#!/usr/bin/python
+#!/usr/local/bin/python
 # -*- coding: utf-8 -*-
+## !/usr/bin/python
 """ 家系図を処理するモジュール
 
 """

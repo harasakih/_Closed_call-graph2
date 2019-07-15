@@ -1,1 +1,1 @@
-remote is GitHub
+github
